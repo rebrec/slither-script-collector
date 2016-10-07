@@ -1,0 +1,1 @@
+# slither-script-collector
