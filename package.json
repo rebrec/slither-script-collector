@@ -2,9 +2,10 @@
   "name": "slither-script-collector",
   "version": "1.0.0",
   "description": "",
-  "main": "collector.js",
+  "main": "src/collector.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./src/collector.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
   },
   "repository": {
     "type": "git",

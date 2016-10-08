@@ -1,6 +1,4 @@
 node_modules
 .nvmrc
 .idea
-.idea/
-.idea/
-.idea/
+data
